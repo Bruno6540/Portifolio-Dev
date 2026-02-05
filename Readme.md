@@ -18,6 +18,6 @@ Projeto de portfólio pessoal responsivo desenvolvido com HTML, CSS e JavaScript
 - Modo claro e escuro
 - Navegação com scroll ativo
 - Filtro de projetos (Web, Mobile, Design)
-- Slider de depoimentos
+- Slides de depoimentos
 - Animações ao rolar a página
 - Links para contato e redes sociais
